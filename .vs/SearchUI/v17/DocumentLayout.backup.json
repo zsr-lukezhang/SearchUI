@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\SearchUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC5A746-553B-41F2-8C1B-CAC10754DAF1}|SearchUI\\SearchUI.csproj|d:\\source\\searchui\\searchui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC5A746-553B-41F2-8C1B-CAC10754DAF1}|SearchUI\\SearchUI.csproj|solutionrelative:searchui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC5A746-553B-41F2-8C1B-CAC10754DAF1}|SearchUI\\SearchUI.csproj|d:\\source\\searchui\\searchui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AC5A746-553B-41F2-8C1B-CAC10754DAF1}|SearchUI\\SearchUI.csproj|solutionrelative:searchui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC5A746-553B-41F2-8C1B-CAC10754DAF1}|SearchUI\\SearchUI.csproj|d:\\source\\searchui\\searchui\\searchui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AC5A746-553B-41F2-8C1B-CAC10754DAF1}|SearchUI\\SearchUI.csproj|solutionrelative:searchui\\searchui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchUI",
+              "DocumentMoniker": "D:\\source\\SearchUI\\SearchUI\\SearchUI.csproj",
+              "RelativeDocumentMoniker": "SearchUI\\SearchUI.csproj",
+              "ToolTip": "D:\\source\\SearchUI\\SearchUI\\SearchUI.csproj",
+              "RelativeToolTip": "SearchUI\\SearchUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T08:30:52.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\source\\SearchUI\\SearchUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SearchUI\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\source\\SearchUI\\SearchUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SearchUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAowKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:49:42.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\source\\SearchUI\\SearchUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SearchUI\\MainWindow.xaml",
+              "ToolTip": "D:\\source\\SearchUI\\SearchUI\\MainWindow.xaml*",
+              "RelativeToolTip": "SearchUI\\MainWindow.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T06:49:08.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
