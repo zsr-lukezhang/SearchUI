@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SearchUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48a1eda92f869554824713f3323bada4636ce96e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SearchUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SearchUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

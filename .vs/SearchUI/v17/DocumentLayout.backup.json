@@ -31,15 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SearchUI",
+              "Title": "SearchUI.csproj",
               "DocumentMoniker": "D:\\source\\SearchUI\\SearchUI\\SearchUI.csproj",
               "RelativeDocumentMoniker": "SearchUI\\SearchUI.csproj",
               "ToolTip": "D:\\source\\SearchUI\\SearchUI\\SearchUI.csproj",
               "RelativeToolTip": "SearchUI\\SearchUI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-02T08:30:52.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T08:30:52.713Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "SearchUI\\MainWindow.xaml.cs",
               "ToolTip": "D:\\source\\SearchUI\\SearchUI\\MainWindow.xaml.cs",
               "RelativeToolTip": "SearchUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAowKUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAowLkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T06:49:42.229Z",
               "EditorCaption": ""
@@ -60,9 +59,9 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\source\\SearchUI\\SearchUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "SearchUI\\MainWindow.xaml",
-              "ToolTip": "D:\\source\\SearchUI\\SearchUI\\MainWindow.xaml*",
-              "RelativeToolTip": "SearchUI\\MainWindow.xaml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwB8AAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\source\\SearchUI\\SearchUI\\MainWindow.xaml",
+              "RelativeToolTip": "SearchUI\\MainWindow.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-02T06:49:08.136Z",
               "EditorCaption": ""

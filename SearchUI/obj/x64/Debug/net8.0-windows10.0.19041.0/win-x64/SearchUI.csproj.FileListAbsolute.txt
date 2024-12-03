@@ -251,3 +251,4 @@ D:\source\SearchUI\SearchUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Mul
 D:\source\SearchUI\SearchUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\ProjectArchitectures.txt
 D:\source\SearchUI\SearchUI\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Microsoft.Win32.SystemEvents.dll
 D:\source\SearchUI\SearchUI\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\System.Drawing.Common.dll
+D:\source\SearchUI\SearchUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\SearchUI.sourcelink.json

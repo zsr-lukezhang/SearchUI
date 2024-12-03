@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\source\SearchUI\SearchUI\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-02T08:36:30.290</Modified>
+      <Modified>2024-12-03T04:19:45.471</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\source\SearchUI\SearchUI\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-12-02T08:35:29.339</Modified>
+      <Modified>2024-12-03T03:10:07.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\SearchUI\SearchUI\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\SearchUI.runtimeconfig.json">
       <PackagePath>SearchUI.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\SearchUI\SearchUI\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\SearchUI.dll">
       <PackagePath>SearchUI.dll</PackagePath>
-      <Modified>2024-12-02T08:36:30.096</Modified>
+      <Modified>2024-12-03T04:19:45.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\SearchUI\SearchUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
       <PackagePath>SearchUI.exe</PackagePath>
-      <Modified>2024-12-02T08:36:30.100</Modified>
+      <Modified>2024-12-03T04:19:45.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="S:\Users\Administrator\.nuget\packages\microsoft.web.webview2\1.0.2651.64\runtimes\win-x64\native\WebView2Loader.dll">
       <PackagePath>runtimes\win-x64\native\WebView2Loader.dll</PackagePath>

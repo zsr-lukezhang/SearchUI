@@ -7,22 +7,26 @@
     mc:Ignorable="d">
 
     <Window.SystemBackdrop>
-        <MicaBackdrop Kind="BaseAlt"/>
+        <MicaBackdrop />
     </Window.SystemBackdrop>
+    
 
     <Grid>
-        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
-            <TextBox x:ConnectionId='2' x:Name="FileNameTextBox" Width="300" PlaceholderText="Enter file name"/>
-            <Button x:ConnectionId='3' x:Name="SearchButton" Content="Search"                            />
-            <ProgressRing x:ConnectionId='4' x:Name="ProgressRing" Width="50" Height="50" IsActive="False"/>
-            <ListView x:ConnectionId='5' x:Name="ResultsListView" Width="600" Height="400"                                                                                      >
+        <TextBlock x:ConnectionId='2' x:Name="TB_SearchText" Text="SearchUI" FontFamily="Cascadia Code" FontSize="25" CharacterSpacing="100" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40"/>
+        <StackPanel x:ConnectionId='3' x:Name="SP_SearchInput" HorizontalAlignment="Center" VerticalAlignment="Top" Orientation="Horizontal" Margin="50">
+            <TextBox x:ConnectionId='8' x:Name="FileNameTextBox" Width="300" PlaceholderText="Enter file name"/>
+            <Button x:ConnectionId='9' x:Name="SearchButton" Content="Search"                             Margin="10,0,0,0"/>
+        </StackPanel>
+        <ProgressRing x:ConnectionId='4' x:Name="ProgressRing" Width="50" Height="50" IsActive="False"/>
+        <StackPanel x:ConnectionId='5' x:Name="SP_Results" Visibility="Visible" HorizontalAlignment="Center" VerticalAlignment="Bottom">
+            <ListView x:ConnectionId='6' x:Name="ResultsListView" Width="1000" Height="550"                                                                                      >
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <StackPanel Orientation="Horizontal" Spacing="10">
-                            <Image Source="{Binding Icon}" Width="32" Height="32"/>
-                            <TextBlock Text="{Binding Name}" Width="150"/>
-                            <TextBlock Text="{Binding FullPath}" Width="300"/>
-                            <TextBlock Text="{Binding ModifiedTime}" Width="120"/>
+                            <Image VerticalAlignment="Center" Source="{Binding Icon}" Width="32" Height="32"/>
+                            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left" Text="{Binding Name}" ToolTipService.ToolTip="{Binding Name}" Width="300"/>
+                            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left" Text="{Binding FullPath}" ToolTipService.ToolTip="{Binding FullPath}" Width="400"/>
+                            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Right" Text="{Binding ModifiedTime}" ToolTipService.ToolTip="{Binding ModifiedTime}" Width="150"/>
                         </StackPanel>
                     </DataTemplate>
                 </ListView.ItemTemplate>
